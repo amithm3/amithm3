@@ -129,6 +129,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amithm3/amithm3/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/amithm3/amithm3/blob/output/github-contribution-grid-snake.svg)
 
 ###
