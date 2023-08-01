@@ -121,10 +121,6 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amithm3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ![](https://github-readme-stats.vercel.app/api?username=amithm3&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amithm3&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
