@@ -20,6 +20,9 @@
   <a href="https://www.kaggle.com/amithm3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
   </a>
+    <a href="https://hashnode.com/@amithm3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hashnode logo"  />
+  </a>
 </div>
 
 ###
