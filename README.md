@@ -55,20 +55,35 @@
 
 ---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👩‍💻  About Me
 
-<p align="left">Just a passionate student who loves writing logical & scientific programs; i tend to generalize a problem and solve it rather that finding a specific solution; i like math, specifically calculus...<br><br>My quirk? build projects from scratch to reinvent the wheel<br><br>If you ask me about anything i am interested in, we can talk for hours and prolly drifted away into a new topic without realizing<br><br>- 🔭 I’m pursuing BE Information Science @RIT-Bangalore-India<br>- 📚 I'm currently learning how to force machines to learn, aka ML<br>- 🪙 I am a Numismatic collector, i can talk about coins and notes all day</p>
+<p align="left">
+  Just a passionate student who loves building logical & scientific programs<br>
+  i tend to generalize a problem and solve it rather that finding a specific solution<br>
+  i like math, specifically calculus...<br>
+  
+  My quirk? build projects from scratch to reinvent the wheel
+  
+  If you ask me about anything i am interested in, we can talk for hours and prolly drifted away into a new topic without realizing
+  - 🔭 I’m pursuing BE Information Science @RIT-Bangalore-India
+  - 📚 I'm currently learning how to force machines to learn, aka ML
+  - 🪙 I am a Numismatic collector, i can talk about coins all day
+</p>
+
+<br>
+
+### 🌏  Communities
+
+- Core @ IEEE Computer Inteligence Society, RIT
+- Core @ Google Developer Student Club, RIT
 
 <details>
-  
 <summary>
   
   ### My Coding Journey So far 
-  
 </summary>
 
-#### Stay Tuned
-
+**Stay Tuned**
 </details>
 
 ---
