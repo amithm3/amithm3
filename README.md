@@ -8,12 +8,12 @@
 @@   ❮\/__-__\/❯ Programming isn't about what you know @@
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
+@@     _/`U'\_      .----------------------------.     @@
+@@    ( .   . )     | while( ! (succed=try() ) ) |     @@
+@@   / /     \ \    '----------------------------'     @@
+@@   \ |  ,  | /                                       @@
+@@    \|=====|/      creating a digital legacy         @@
+@@     |_.^._|            one commit at a time         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
