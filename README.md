@@ -24,13 +24,9 @@
 
 </div>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/amithm3/count.svg?"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amithm3" target="_blank">
@@ -51,23 +47,29 @@
   </a>
 </div>
 
-###
+<h3 align="center"><a href="https://amithm3.wrapped.run" target="_blank">My Github Wrapped</a></h3>
 
-<h2 align="center"><a href="https://amithm3.wrapped.run" target="_blank">My Github Wrapped</a></h2>
-
-###
+---
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">Just a passionate student who loves writing logical & scientific programs; i tend to generalize a problem and solve it rather that finding a specific solution; i like math, specifically calculus...<br><br>My quirk? build projects from scratch to reinvent the wheel<br><br>If you ask me about anything i am interested in, we can talk for hours and prolly drifted away into a new topic without realizing<br><br>- 🔭 I’m pursuing BE Information Science @RIT-Bangalore-India<br>- 📚 I'm currently learning how to force machines to learn, aka ML<br>- 🪙 I am a Numismatic collector, i can talk about coins and notes all day</p>
 
-###
+<details>
+  
+<summary>
+  
+  ### My Coding Journey So far 
+  
+</summary>
 
-<h3 align="left">🛠 Language and tools</h3>
+#### Stay Tuned
 
-###
+</details>
+
+---
+
+## 🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
