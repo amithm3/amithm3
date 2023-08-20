@@ -45,6 +45,10 @@
     <a href="https://hashnode.com/@amithm3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hashnode logo"  />
   </a>
+  </a>
+    <a href="https://medium.com/@amithm3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
 </div>
 
 ###
