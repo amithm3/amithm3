@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/amithm3/count.svg?"  />
-</div>
+</div><br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amithm3" target="_blank">
