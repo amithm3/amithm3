@@ -145,26 +145,57 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<!-- Stats -->
+<br/><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="left">📊 GitHub Stats</h2>
+<p align="center">
+<img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966">
 
 <div align="center">
-
-  ![Stats](https://github-readme-stats.vercel.app/api?username=amithm3&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-
-  ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=amithm3&layout=compact&theme=vision-friendly-dark&mode=weekly)
   
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&layout=compact&theme=vision-friendly-dark)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=amithm3&layout=compact&theme=merko&include_all_commits=true&count_private=true)
+  
+  ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=amithm3&layout=compact&theme=merko&mode=weekly)
+  
+  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&layout=compact&theme=merko)
   
 </div>
 
 ![Snake animation](https://github.com/amithm3/amithm3/blob/snake/github-contribution-grid-snake-dark.svg)
 
-###
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amithm3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amithm3&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+</div>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amithm3&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+</div>
+
+<br/>
+<p align="center">
+<a href="https://github.com/trinib?tab=stars&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/amithm3"/></a>
+<a href="https://github.com/trinib?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/amithm3?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+</p>
+
+<!-- Fun -->
+<br/><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+<p align="center">
+<img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" width="400">
+
+<p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+<p align="center">
+<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+<p align="center">
+<img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/></p>
