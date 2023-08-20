@@ -70,8 +70,6 @@
   - 🪙 I am a Numismatic collector, i can talk about coins all day
 </p>
 
-<br>
-
 ### 🌏  Communities
 
 - Core @ IEEE Computer Inteligence Society, RIT
