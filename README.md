@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="center"><a href="https://amithm3.wrapped.run" target="_blank">Wrapped</a></h1>h1>
+<h2 align="center"><a href="https://amithm3.wrapped.run" target="_blank">My Github Wrapped</a></h2>
 
 ###
 
@@ -149,11 +149,17 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=amithm3&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amithm3&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-![Snake animation](https://github.com/amithm3/amithm3/blob/output/github-contribution-grid-snake.svg)
+  ![](https://github-readme-stats.vercel.app/api?username=amithm3&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amithm3&layout=compact&theme=vision-friendly-dark&mode=weekly)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+![Snake animation](https://github.com/amithm3/amithm3/blob/snake/github-contribution-grid-snake-dark.svg)
 
 ###
 
