@@ -151,11 +151,11 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=amithm3&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=amithm3&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amithm3&layout=compact&theme=vision-friendly-dark&mode=weekly)](https://git.io/streak-stats)
+  ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=amithm3&layout=compact&theme=vision-friendly-dark&mode=weekly)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amithm3&layout=compact&theme=vision-friendly-dark)
   
 </div>
 
