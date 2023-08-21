@@ -28,6 +28,12 @@
   <img src="https://profile-counter.glitch.me/amithm3/count.svg?"  />
 </div><br/>
 
+<a href="https://gist.github.com/amithm3/80485bc32590af2136689f6928c86851" target="_blank">
+
+  ![image](https://github.com/amithm3/amithm3/assets/141122209/1d6b757f-66ee-476e-9831-7e132e464d0d)
+
+</a>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/amithm3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
