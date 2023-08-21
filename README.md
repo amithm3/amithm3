@@ -30,7 +30,7 @@
 
 <p align="center">
 <a href="https://gist.github.com/amithm3/80485bc32590af2136689f6928c86851" target="_self">
-  <img src="https://raw.githubusercontent.com/amithm3/amithm3/master/sign_my_guestbook.gif" alt="Click here to sign my guestbook!">
+  <img width=750 src="https://raw.githubusercontent.com/amithm3/amithm3/master/sign_my_guestbook.gif" alt="Click here to sign my guestbook!">
 </a>
 
 <div align="center">
