@@ -22,16 +22,15 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</div>
+</div>                                                                                                                        
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/amithm3/count.svg?"  />
 </div><br/>
 
-<a href="https://gist.github.com/amithm3/80485bc32590af2136689f6928c86851" target="_blank">
-
-  ![image](https://github.com/amithm3/amithm3/assets/141122209/1d6b757f-66ee-476e-9831-7e132e464d0d)
-
+<p align="center">
+<a href="https://gist.github.com/amithm3/80485bc32590af2136689f6928c86851" target="_self">
+  <img src="https://raw.githubusercontent.com/amithm3/amithm3/master/sign_my_guestbook.gif" alt="Click here to sign my guestbook!">
 </a>
 
 <div align="center">
